@@ -20,4 +20,5 @@
 ## 极路由
 
 ![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/jiluyou002.png)
+![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/jiluyou003.png)
 # 常见问题
