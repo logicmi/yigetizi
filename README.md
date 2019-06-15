@@ -18,4 +18,6 @@
 # 主流路由器设置
 ## 小米路由器
 ## 极路由
+
+! (https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/jiluyou001.png)
 # 常见问题
