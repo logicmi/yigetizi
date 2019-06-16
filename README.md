@@ -18,7 +18,7 @@
 # 主流路由器设置
 ## 小米路由器
 ## 极路由
-![极路由翻墙](http://cdn.yigetizi.com/gee001.jpg)
-![极路由翻墙](http://cdn.yigetizi.com/gee002.jpg)
-![极路由翻墙](http://cdn.yigetizi.com/gee003.jpg)
+![极路由翻墙](http://cdn.yigetizi.com/pic/gee001.jpg)
+![极路由翻墙](http://cdn.yigetizi.com/pic/gee002.jpg)
+![极路由翻墙](http://cdn.yigetizi.com/pic/gee003.jpg)
 # 常见问题
