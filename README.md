@@ -17,6 +17,9 @@
 这里会陆续更新我们测试过的路由器
 # 主流路由器设置
 ## 小米路由器
+![小米路由器翻墙](http://cdn.yigetizi.com/pic/mi001.jpg)
+![小米路由器翻墙](http://cdn.yigetizi.com/pic/mi002.jpg)
+![小米路由器翻墙](http://cdn.yigetizi.com/pic/mi004.jpg)
 ## 极路由
 ![极路由翻墙](http://cdn.yigetizi.com/pic/gee001.jpg)
 ![极路由翻墙](http://cdn.yigetizi.com/pic/gee002.jpg)
