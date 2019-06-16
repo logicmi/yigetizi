@@ -19,6 +19,6 @@
 ## 小米路由器
 ## 极路由
 ![极路由翻墙](http://cdn.yigetizi.com/gee001.jpg)
-![极路由翻墙](http://cdn.yigetizi.com/jinvpn/tizi/gee002.jpg)
-![极路由翻墙](http://cdn.yigetizi.com/tizi/gee003.jpg)
+![极路由翻墙](http://cdn.yigetizi.com/gee002.jpg)
+![极路由翻墙](http://cdn.yigetizi.com/gee003.jpg)
 # 常见问题
