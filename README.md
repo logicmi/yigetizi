@@ -18,7 +18,7 @@
 # 主流路由器设置
 ## 小米路由器
 ## 极路由
-
-![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/jiluyou002.png)
-![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/jiluyou003.png)
+![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/gee001.jpg)
+![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/gee002.jpg)
+![极路由翻墙](https://jinvpn.oss-cn-hongkong.aliyuncs.com/tizi/gee003.jpg)
 # 常见问题
