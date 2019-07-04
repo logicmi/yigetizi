@@ -3,7 +3,9 @@
 
 路由器通了，使用这个路由器的所有终端设备都将畅通无阻。
 
-一个梯子的域名 www.yigetizi.com www.yigetizi.net
+一个梯子的域名
+www.yigetizi.com
+www.yigetizi.net
 
 建议收藏当前说明页面，如果上面网址无法访问，请到这个页面查看新网址。
 
