@@ -50,13 +50,13 @@ www.yigetizi.net
 
 # 路由器设置示例
 ## 小米路由器
-![小米路由器翻墙](http://cdn.yigetizi.com/pic/mi001.jpg)
-![小米路由器翻墙](http://cdn.yigetizi.com/pic/mi002.jpg)
-![小米路由器翻墙](http://cdn.yigetizi.com/pic/mi004.jpg)
+![小米路由器翻墙](http://cdn.yigetizi.site/pic/mi001.jpg)
+![小米路由器翻墙](http://cdn.yigetizi.site/pic/mi002.jpg)
+![小米路由器翻墙](http://cdn.yigetizi.site/pic/mi004.jpg)
 
 ## 极路由
-![极路由翻墙](http://cdn.yigetizi.com/pic/gee001.jpg)
-![极路由翻墙](http://cdn.yigetizi.com/pic/gee002.jpg)
-![极路由翻墙](http://cdn.yigetizi.com/pic/gee003.jpg)
+![极路由翻墙](http://cdn.yigetizi.site/pic/gee001.jpg)
+![极路由翻墙](http://cdn.yigetizi.site/pic/gee002.jpg)
+![极路由翻墙](http://cdn.yigetizi.site/pic/gee003.jpg)
 
 # 常见问题
